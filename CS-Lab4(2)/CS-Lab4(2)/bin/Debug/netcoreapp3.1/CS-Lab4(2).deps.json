@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v3.1": {
       "CS-Lab4(2)/1.0.0": {
         "dependencies": {
-          "MyLibrary": "1.0.0.0"
+          "MyDll": "1.0.0.0"
         },
         "runtime": {
           "CS-Lab4(2).dll": {}
         }
       },
-      "MyLibrary/1.0.0.0": {
+      "MyDll/1.0.0.0": {
         "runtime": {
-          "MyLibrary.dll": {
+          "MyDll.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MyLibrary/1.0.0.0": {
+    "MyDll/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

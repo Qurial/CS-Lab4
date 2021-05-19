@@ -1,0 +1,6 @@
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\bin\Debug\MyDll.dll
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\bin\Debug\MyDll.pdb
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\obj\Debug\MyDll.csprojAssemblyReference.cache
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\obj\Debug\MyDll.csproj.CoreCompileInputs.cache
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\obj\Debug\MyDll.dll
+C:\Users\RedmiBook\source\repos\MyDll\MyDll\obj\Debug\MyDll.pdb

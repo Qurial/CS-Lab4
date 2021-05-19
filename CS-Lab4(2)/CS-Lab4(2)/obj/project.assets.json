@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4(2)\\CS-Lab4(2)\\CS-Lab4(2).csproj",
+      "projectUniqueName": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4\\CS-Lab4(2)\\CS-Lab4(2)\\CS-Lab4(2).csproj",
       "projectName": "CS-Lab4(2)",
-      "projectPath": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4(2)\\CS-Lab4(2)\\CS-Lab4(2).csproj",
+      "projectPath": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4\\CS-Lab4(2)\\CS-Lab4(2)\\CS-Lab4(2).csproj",
       "packagesPath": "C:\\Users\\RedmiBook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4(2)\\CS-Lab4(2)\\obj\\",
+      "outputPath": "C:\\Users\\RedmiBook\\source\\repos\\CS-Lab4\\CS-Lab4(2)\\CS-Lab4(2)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RedmiBook\\AppData\\Roaming\\NuGet\\NuGet.Config",

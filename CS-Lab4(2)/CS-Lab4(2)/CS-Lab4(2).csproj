@@ -1,15 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>CS_Lab4_2_</RootNamespace>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\RedmiBook\source\repos\CS-Lab4\CS-Lab4(2)\Backup\CS-Lab4(2)\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
-
   <ItemGroup>
-    <Reference Include="MyLibrary">
-      <HintPath>bin\Debug\netcoreapp3.1\MyLibrary.dll</HintPath>
+    <Reference Include="MyDll">
+      <HintPath>bin\Debug\netcoreapp3.1\MyDll.dll</HintPath>
     </Reference>
   </ItemGroup>
-
 </Project>
